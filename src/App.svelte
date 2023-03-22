@@ -185,13 +185,13 @@
 </div>
 
 <style>
-  :global(body) {
+  /* :global(body) {
     margin: 0;
     padding: 0;
     background-color: #000;
     color: rgb(129, 111, 92);
     font-size: 11px;
-  }
+  } */
 
   label {
     display: inline;
